@@ -1,0 +1,2 @@
+# regwe
+reg wechat
